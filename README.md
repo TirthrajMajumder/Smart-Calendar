@@ -1,1 +1,1 @@
-# Samrt-Calendar-System
+# Smart-Calendar-System
